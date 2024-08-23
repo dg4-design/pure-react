@@ -39,3 +39,11 @@ pure-react/
 - `app.jsx`ファイルで React コンポーネントを編集する
 - `styles/sass/app.sass`ファイルでスタイルを編集する
 - Live Sass Compiler を使用して Sass ファイルを CSS にコンパイルする
+
+## 参考資料
+
+このプロジェクトは以下の記事を参考にして作成されました：
+
+[正真正銘の React だけの不純物なしで React 入門](https://sbfl.net/blog/2019/02/20/react-only-tutorial/)
+
+この記事では、React の基本的な概念や使い方について詳しく解説されています。
