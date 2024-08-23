@@ -22,7 +22,10 @@ pure-react/
 ├─ app.jsx
 └─ styles/
     ├─ css/
+    │   └─ _reset.css
+    │   └─ app.css
     └─ sass/
+        └─ app.sass
 ```
 
 ## セットアップ
